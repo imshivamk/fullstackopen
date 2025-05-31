@@ -1,1 +1,1 @@
-this repository contains all the solutions to the fullstackopen course excercises
+this repository contains solutions to all the excercises from fullstackopen course
